@@ -1,0 +1,18 @@
+﻿4.27.exe' (Win32): 已載入 'C:\Users\user\Desktop\107360213_王禹茜\4.27\temp\debug\4.27.exe'。已載入符號。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ntdll.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\KernelBase.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\vcruntime140d.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel.appcore.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcrt.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\rpcrt4.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sspicli.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\cryptbase.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\bcryptprimitives.dll'。找不到或無法開啟 PDB 檔案。
+4.27.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sechost.dll'。找不到或無法開啟 PDB 檔案。
+0x4958 執行緒以返回碼 0 (0x0) 結束。
+0x1f4c 執行緒以返回碼 0 (0x0) 結束。
+0x19b8 執行緒以返回碼 0 (0x0) 結束。
+0x4368 執行緒以返回碼 0 (0x0) 結束。
+'[8688] 4.27.exe' 程式以返回碼 0 (0x0) 結束。
